@@ -8,10 +8,10 @@ Product Catalog KMM is a cross-platform mobile application built using Kotlin Mu
 
 ## Screenshots
 
-![Product List Screen](screenshots/ss1.jpg)
+![Product List Screen](screenshots/ss2.jpg)
 *Product List Screen showcasing available products.*
 
-![Product Detail Screen](screenshots/ss2.jpg)
+![Product Detail Screen](screenshots/ss1.jpg)
 *Detailed view of a selected product.*
 
 ## Installation
