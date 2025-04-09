@@ -22,7 +22,6 @@ Follow these steps to set up the project on your local machine:
    ```bash
    git clone https://github.com/AgnivaMaiti/product-catalog-kmm.git
    ```
-
 
 2. **Open the Project**:
    - For Android development, open the project in Android Studio.
